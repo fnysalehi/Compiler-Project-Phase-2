@@ -1,0 +1,22 @@
+
+
+
+int #da31 : 8 ;
+bool #gn11 : false;
+
+
+
+int #at11 (int #ba12, #ca23[]; bool #do43, #el32; int #fo12)
+{
+	if(#gn11)
+	{
+		#da31 = 10;
+			#gn11 = false;
+	}
+	
+
+
+
+	
+}
+//note that functions are defined using a statment int #ma11(int #aa11, #bb11)
